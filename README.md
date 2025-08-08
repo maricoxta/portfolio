@@ -30,6 +30,14 @@ Alguns dos projetos apresentados neste portfólio:
 - **Diretório de Links sobre Desastres** – Aplicativo com filtros temáticos e geográficos para gestão de riscos.
 - **Análise Orçamentária em Saneamento** – Dashboards e insights para gestores municipais.
 
+## 📬 **Contato** 
+✉️ Email: costadamari@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/maricoxta)
+💻 [GitHub](https://github.com/maricoxta)
+
+
+Feito com 💙 e dados.
+
 ## 🛠️ Como editar e personalizar
 
 Você pode clonar este repositório e customizar conforme suas necessidades:
@@ -37,6 +45,4 @@ Você pode clonar este repositório e customizar conforme suas necessidades:
 ```bash
 git clone https://github.com/maricoxta/maricoxta.github.io
 
-“📬 Contato ---------- * ✉️ Email: maricoxta@gmail.com * 🔗 [LinkedIn](https://www.linkedin.com/in/maricoxta) * 💻 [GitHub](https://github.com/maricoxta)”
 
-Feito com 💙 e dados.
